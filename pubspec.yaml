@@ -2,7 +2,7 @@ name: screen_utils
 description: FlutterScreenUtils
 version: 0.0.1
 author: Xuelong Lei
-homepage:
+homepage: https://github.com/anakin777/flutter_screen_util
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
